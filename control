@@ -1,0 +1,9 @@
+Package: com.aflatoon.suite
+Name: AflatoonSuite
+Version: 4.2.0
+Architecture: iphoneos-arm64
+Description: Aflatoon Suite — Exclusive Edition: DomainSniffer + ServerTester + Proxy + Keyboard tools + Live Speed (x1-x4) + Flags (علم ← اسم/عاصمة). By Aflatoon (أفلاطون).
+Maintainer: Aflatoon
+Author: Aflatoon
+Section: Tweaks
+Depends:
